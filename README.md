@@ -1,2 +1,1 @@
-# EISTI.Connect.Four
-
+# Polygone area maximization
